@@ -30,7 +30,7 @@ const Login = () => {
 
   }
   const ForgotPassword=()=>{
-
+    console.log("Login sucessfull")
   }
   console.log('Username:', username);
   console.log('Password:', password);
